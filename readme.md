@@ -1,4 +1,4 @@
-# Markdown Badges
+# Markdown - Badges
 
 Add badges to your Profile and Projects.
 
@@ -41,7 +41,7 @@ The project has a separate contribution file. Please adhere to the steps listed 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 ### List of badges
-- [Markdown Badges](#markdown-badges)
+- [Markdown - Badges](#markdown---badges)
   - [Table of contents](#table-of-contents)
     - [Usage](#usage)
     - [Tips](#tips)
